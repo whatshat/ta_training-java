@@ -1,4 +1,4 @@
-package HW;
+package hw;
 
 import static org.junit.Assert.assertTrue;
 
